@@ -1,0 +1,103 @@
+
+.jumbotron{
+background-image:url('../img/landing.jpg');
+text-align: center;
+  margin-bottom: 0;
+}
+
+.tabstrip-img {
+background-image:url('../img/foodsBg.jpg');
+}
+.footer-img {
+background-image:url('../img/subscribe.jpg');
+}
+h1{
+font-size: 30px
+position: relative;
+
+
+}
+
+.default-text-color{
+	color :  #F15A29;
+}
+.white-text-color{
+	color :  white;
+}
+
+.img1{
+  background-color: white;
+}
+
+.img2{
+background-color: #F15A29;
+
+}
+
+.img3{
+  background-image: url('../img/breakfast.jpg');
+}
+
+.img4{
+background-image: url('../img/lunch.jpg');
+
+}
+.img5{
+background-image: url('../img/dinner.jpg');
+
+}
+.navbar {
+ margin-bottom: 50px;
+ border-radius: 0;
+ }
+
+
+
+h5{
+  text-transform: inherit;
+  font-family: verdana;
+  font-size: 20px;
+  font-style: normal;
+}
+
+h5{
+  text-transform: inherit;
+  font-family: verdana;
+  font-size: 20px;
+  font-style: normal;
+}
+
+h3{
+  color: red;
+}
+
+.row .customers{
+      background-color: white;
+      box-shadow:2px 2px 2px 2px grey;
+      padding : 50px;
+      width: 100%;
+      margin-bottom: 50px;
+
+}
+
+
+.mySpace{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.righte{
+  border-right:solid grey;
+}
+
+
+
+footer{
+background-color: #f2f2f2;
+padding: 25px;
+ }
+
+ p,h5{
+   font-family: 'Poor Story', cursive;
+   font-size: 20px;
+ }
